@@ -24,8 +24,8 @@ def imageClassificatorFunctionApp(myblob: func.InputStream):
 
     # Setting up variables
 
-    key = "a64b1c51f80944d5a7bbe75a255220b1"
-    strEndpoint = "https://imagerecognitioncatsclassifier.cognitiveservices.azure.com/"
+    key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    strEndpoint = "https://imagerecognitionIaName.cognitiveservices.azure.com/"
     
     # Starting Image Recognition Ai client
 
@@ -91,8 +91,8 @@ def imageClassificatorFunctionApp(myblob: func.InputStream):
 
 
         # Code snippet for public blob storage
-        source_key = 'NzfyXjXY0kvv5l7Qk90V9tZOtrkaMZAVaSkLLwwafEXzJh4W1Y765heG5HcTR142y08KnehGsjGV+AStamcJGQ=='
-        des_key = 'NzfyXjXY0kvv5l7Qk90V9tZOtrkaMZAVaSkLLwwafEXzJh4W1Y765heG5HcTR142y08KnehGsjGV+AStamcJGQ=='
+        source_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+        des_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
         source_account_name = 'imageblobstoragedemo'
         des_account_name = 'imageblobstoragedemo'
 
