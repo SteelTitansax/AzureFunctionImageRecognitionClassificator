@@ -1,7 +1,7 @@
 {
   "IsEncrypted": false,
   "Values": {
-    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=imageblobstoragedemo;AccountKey=NzfyXjXY0kvv5l7Qk90V9tZOtrkaMZAVaSkLLwwafEXzJh4W1Y765heG5HcTR142y08KnehGsjGV+AStamcJGQ==;EndpointSuffix=core.windows.net",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=imageblobstoragedemo;AccountKey=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx;EndpointSuffix=core.windows.net",
     "FUNCTIONS_WORKER_RUNTIME": "python",
     "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
     "imageblobstoragedemo_STORAGE": "DefaultEndpointsProtocol=https;AccountName=imageblobstoragedemo;AccountKey=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx;EndpointSuffix=core.windows.net",
